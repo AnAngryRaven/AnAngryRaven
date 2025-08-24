@@ -1,0 +1,32 @@
+repeat="playlist"
+notify=true
+shuffle=true
+library_tabs=["playlists", "podcasts", "browse"]
+
+[notification_format]
+title="%title - %artists"
+body="On Album: %album\nTrack Length: %duration"
+
+[keybindings]
+"Enter"="open selected"
+"Ctrl+Space"="play"
+"Space"="pause"
+
+[theme]
+background = "black"
+primary = "light white"
+secondary = "#9951CB"
+title = "#9951CB"
+playing = "#9951CB"
+playing_selected = "#d39bfa"
+playing_bg = "black"
+highlight = "#FEF437"
+highlight_bg = "#484848"
+error = "light white"
+error_bg = "red"
+statusbar = "#FEF437"
+statusbar_progress = "#9951CB"
+statusbar_bg = "#9951CB"
+cmdline = "light white"
+cmdline_bg = "black"
+search_match = "#FEF437"
