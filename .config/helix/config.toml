@@ -1,0 +1,35 @@
+[keys.normal]
+"C-x" = ":bc"
+"A-x" = ":bc!"
+"C-s" = ":w"
+"C-l" = "move_next_word_start"
+"C-j" = "move_prev_word_start"
+i = "move_line_up"
+j = "move_char_left"
+k = "move_line_down"
+l = "move_char_right"
+"C-e" = "insert_mode"
+"C-a" = ":buffer-previous"
+"C-d" = ":buffer-next"
+
+[keys.insert]
+"C-x" = ":q"
+"C-i" = "no_op"
+"C-j" = "move_char_left"
+"C-k" = "move_line_down"
+"C-l" = "move_char_right"
+"C-e" = "normal_mode"
+"C-s" = ":w"
+
+[keys.select]
+"C-s" = ":w"
+"C-l" = "move_next_word_start"
+"C-j" = "move_prev_word_start"
+i = "move_line_up"
+j = "move_char_left"
+k = "move_line_down"
+l = "move_char_right"
+"C-e" = "normal_mode"
+
+[editor]
+bufferline="always"

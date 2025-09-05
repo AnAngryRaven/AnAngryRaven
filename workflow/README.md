@@ -18,17 +18,17 @@ I'm thinking about changing this at some point in the future -- possibly to some
 
 As I'm running KDE, I suppose it's a given I'm using some themes. Here they are, in order of the categories in the "Colours & Themes" window:
 
-Global Theme: Breeze Dark
-Colours: Breeze Dark
-Application Style: MS Windows 9x
-Plasma Style: Breeze*
-Window Decorations: Windows 98
-Icons: Memphis 98
-Cursors: Chicago 95 Standard
-System Sounds: Ocean**
-Login Screen (SDDM): Reactionary KDE1
-Boot Screen: Breeze (Text Mode)
+* Global Theme: Breeze Dark
+* Colours: Breeze Dark
+* Application Style: MS Windows 9x
+* Plasma Style: Breeze*
+* Window Decorations: Windows 98
+* Icons: Memphis 98
+* Cursors: Chicago 95 Standard
+* System Sounds: Ocean**
+* Login Screen (SDDM): Reactionary KDE1
+* Boot Screen: Breeze (Text Mode)
 
 
-* - todo!("I'd like to modify Reactionary into a dark mode variant. I like its aesthetic, but it's [too bright](https://tenor.com/view/deltarune-pumpkin-crying-jackenstein-your-taking-too-long-gif-10931211469293787300)");
-** - I actually modified a few of these manually into what is I believe the Windows XP sounds. Don't super remember though, set it up a while ago..
+\* - todo!("I'd like to modify Reactionary into a dark mode variant. I like its aesthetic, but it's [too bright](https://tenor.com/view/deltarune-pumpkin-crying-jackenstein-your-taking-too-long-gif-10931211469293787300)");
+\** - I actually modified a few of these manually into what is I believe the Windows XP sounds. Don't super remember though, set it up a while ago..
