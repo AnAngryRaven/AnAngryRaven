@@ -10,7 +10,7 @@ Welcome to the workflow section! Everything I use (and perhaps more!) should be 
 (You'll likely have noticed that these are all built in Rust. Yes, I am an avid Rust enjoyer. No, I'm not sorry.)
 
 # Operating System
-Currently, I'm running Ubuntu 25.04, running KDE Plasma 6.3.4 on Wayland.
+Currently, I'm running Ubuntu 25.10, running KDE Plasma 6.4.5 on Wayland.
 
 I'm thinking about changing this at some point in the future -- possibly to something like [NixOS](https://nixos.org/), though KDE's [new distribution](https://kde.org/linux/) is certainly in the running!
 

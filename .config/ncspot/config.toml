@@ -2,6 +2,7 @@ repeat="playlist"
 notify=true
 shuffle=true
 library_tabs=["playlists", "podcasts", "browse"]
+flip_status_indicators=true
 
 [notification_format]
 title="%title - %artists"

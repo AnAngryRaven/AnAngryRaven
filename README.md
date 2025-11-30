@@ -4,4 +4,4 @@ want to see my workflow? check [here](https://github.com/AnAngryRaven/AnAngryRav
 
 want to see my configs? go [here](https://github.com/AnAngryRaven/AnAngryRaven/tree/main/.config)
 
-want to find me elsewhere? i'd suggest my [website for that](https:/raven.guhcat.com) 🙂‍↕️
+want to find me elsewhere? i'd suggest my [website for that](https://raven.guhcat.com) 🙂‍↕️
