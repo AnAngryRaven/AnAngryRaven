@@ -8,7 +8,7 @@ layout {
 			plugin location="zellij:status-bar"
 		}
 	}
-	tab name="work"{
+	tab name="code"{
 		pane split_direction="vertical" {
 			pane size="15%" command="yazi"
 			pane split_direction="horizontal" {
@@ -20,7 +20,9 @@ layout {
 			}
 		}
 	}
-	tab name="play"{
+	tab name="test"{
+	}
+	tab name="music"{
 		pane command="ncspot"
 	}
 }

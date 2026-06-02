@@ -11,6 +11,8 @@ l = "move_char_right"
 "C-e" = "insert_mode"
 "C-a" = ":buffer-previous"
 "C-d" = ":buffer-next"
+"C-right" = "move_next_word_end"
+"C-left" = "move_prev_word_start"
 
 [keys.insert]
 "C-x" = ":q"
@@ -20,6 +22,11 @@ l = "move_char_right"
 "C-l" = "move_char_right"
 "C-e" = "normal_mode"
 "C-s" = ":w"
+"C-space" = "completion"
+"C-h" = "delete_word_backward"
+"C-del" = "delete_word_forward"
+"C-right" = "move_next_word_end"
+"C-left" = "move_prev_word_start"
 
 [keys.select]
 "C-s" = ":w"
@@ -30,6 +37,8 @@ j = "move_char_left"
 k = "move_line_down"
 l = "move_char_right"
 "C-e" = "normal_mode"
+"C-right" = "move_next_word_end"
+"C-left" = "move_prev_word_start"
 
 [editor]
 bufferline="always"
